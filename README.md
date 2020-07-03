@@ -1,4 +1,4 @@
-# CS180Project
+# CoronaVirus Checker
 
 ## Seteps to Set Up Project
 
